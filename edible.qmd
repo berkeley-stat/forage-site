@@ -1,0 +1,171 @@
+---
+title: "Edible Species"
+---
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+We’ve found the following wild and feral edible plants in the East Bay urban ecosystem. “Spp.” after a genus name means we found more than one species. Species in bold font are particularly abundant.
+
+Species with edible parts are highlighted in green.
+
+**Not all parts of nominally “edible” plants are edible: Parts of some edible plants are toxic.**
+
+**Edible parts of some nominally “edible” plants require special preparation to be edible.** For instance, coast live oak acorns (*Quercus agrifolia*), California bay laurel nuts (*Umbellularia californica*), California buckeye nuts (*Aesculus californica*), bamboo shoots (*Bambusa spp.*, *Chimonobambusa spp.*, *Phyllostachys spp.*), and pokeweed (*Phytolacca americana*) range from inedible to toxic unless they are prepared properly. Edible parts of some “edible” plants are edible only at particular stages of their development.
+
+Do not rely on the “common name” to identify a plant: There are different plants with the same common name, some of which are edible and some of which are toxic. For instance, in some parts of the country, *Queen Anne’s Lace* refers to an edible wild carrot (*Daucus carota*), and in others it refers to poison hemlock, (*Conium maculatum*). Mistakes can be fatal.
+
+**[Calflora](https://www.calflora.org/app/ipl?list_id=px3140&family=t&fmt=simple) has a [list of toxic plants](https://www.calflora.org/app/ipl?list_id=px3140&family=t&fmt=simple) according to the [California Poison Control System](https://calpoison.org/).**
+
+Do not consume any part of any plant listed here unless you are quite sure you know what you are doing, even if you are certain that you identified the species correctly.
+
+1. *Achillea millefolium* (Asteraceae), yarrow
+2. *Aesculus californica* (Sapindaceae), California buckeye, California horse-chestnut
+3. *Agoseris grandiflora* (Asteraceae), large-flower native dandelion
+4. *Agoseris apargioides* (Asteraceae), seaside dandelion
+5. *Allium spp.* (Amaryllidaceae), wild onion
+6. *Allium cernuum* (Amaryllidaceae), nodding onion
+7. *Allium lacunosum* (Amaryllidaceae), pitted onion
+8. *Arbutus unedo* (Ericaeae), strawberry Tree
+9. *Artemisia californica* (Asteraceae), California sagebrush
+10. *Artemisia douglasiana* (Asteraceae), California mugwort, Douglas's sagewort
+11. *Artemisia dracunculus* (Asteraceae), tarragon
+12. *Artemisia vulgaris* (Asteraceae), mugwort
+13. *Athyrium filix-femina* (Dryopteridaceae), western lady fern
+14. *Anthriscus caucalis* (Apiaceae), burr chervil
+15. *Bambusa spp.* (Bambusoideae), bamboo
+16. *Bellis perennis* (Asteracea), English daisy, lawn daisy
+17. *Borago officinalis* (Boraginaceae), borage
+18. *Bougainvillea spp.* (Nyctaginaceae), bougainvillea
+19. **Brassica rapa** (Brassicaceae), field mustard
+20. **Brassica nigra** (Brassicaceae), field mustard
+21. *Brassica oleracea* (Brassicaceae), wild cabbage
+22. *Calamintha sylvatica* (Lamiaceae), woodland calamint
+23. *Cardamine californica* (Brassicaceae), California milkmaids, California toothwort, bitter cress
+24. *Cardamine hirsuta* (Brassicaceae), hairy bittercress
+25. **Carduus pycnocephalus** (Asteracea), Italian thistle
+26. *Castilleja spp.* (Orobanchaceae), Indian paintbrush (flowers only; greens inedible)
+27. *Cercis occidentalis* (Fabaceae), western redbud
+28. *Chenopodium album* (Chenopodiaceae), lamb's quarters, fat-hen
+29. *Chlorogalum pomeridianum* (Asparagaceae), wavy-leafed soap plant, California soaproot, Amole (leaves, root; requires cooking)
+30. *Cichorium intybus* (Asteraceae), chicory
+31. **Cirsium vulgare** (Asteracea), spear thistle, common thistle, bull thistle
+32. *Citrus x sinensis* (Rutaceae), orange
+33. **Citrus x limon** (Rutaceae), lemon
+34. *Citrus x paradisi* (Rutaceae), grapefruit
+35. *Citrus spp.* (Rutaceae), lime
+36. **Claytonia perfoliata** (Portulacaceae), miner's lettuce
+37. *Clinopodium douglasii* (Lamiacaea), yerba buena
+38. **Convolvulus arvensis** (Colvolvulacea), field bindweed
+39. **Cynara cardunculus var. scolymus** (Asteraceae), globe artichoke
+40. *Cyperus eragrostis* (Cyperaceae), golden nutsedge, tall nutsedge, chufa, edible galingale
+41. **Dichelostemma capitatum** (Brodiaeoideae), blue dicks
+42. **Equisetum arvense** (Equisetacea), field horsetail
+43. *Eriobotrya japonica* (Rosaceae), loquat
+44. **Erodium cicutarium** (Geraniaceae), redstem filaree, common stork's-bill, pinweed
+45. **Eschscholzia californica** (Papaveraceae), California poppy
+46. **Foeniculum vulgare** (Apiaceae), Fennel
+47. *Fragaria spp.* (Rosaceae), wild strawberries
+48. **Galium aparine** (Rubiaceae), cleavers, bedstraw
+49. *Geranium molle* (Geraniaceae), dove's-foot geranium, dove's-foot crane's bill
+50. *Geranium robertianum* (Geraniaceae), herb-Robert, storksbill, geranium Robert
+51. *Helenium puberulum* (Asteraceae), rosilla, sneezeweed
+52. **Helminthotheca echioides** (Asteracea), bristly ox tongue
+53. **Heracleum maximum** (Apiaceae), cow parsnip
+54. **Hirschfeldia incana** (Brassicacae), shortpod mustard, hoary mustard, Mediterranean mustard
+55. **Hypochaeris radicata** (Asteraceae), Cat's ear
+56. **Juglans regia** (Juglandaceae), walnut
+57. **Lactuca spp.** (Asteraceae), lettuce family
+58. **Lactuca canadensis** (Asteraceae), wild lettuce
+59. **Lactuca ludoviciana** (Asteraceae), western wild lettuce
+60. **Lactuca serriola** (Asteraceae), prickly lettuce
+61. **Lactuca virosa** (Asteraceae), wild lettuce, bitter lettuce, opium lettuce
+62. *Lamium purpureum* (Lamiaceae), purple dead nettle
+63. **Lapsana communis** (Asteraceae), nipplewort
+64. *Lathyrus latifolius* (Fabaceae), perennial pea
+65. **Lavandula angustifolia** (Lamiaceae), lavender
+66. **Maianthemum racemosum** (Ruscacea), false lily of the valley, false Solomon's seal
+67. **Malus domestica** (Rosaceae), apple
+68. **Malva neglecta** (Malvaceae), mallow
+69. **Malva sylvestris** (Malvaceae), mallow
+70. **Marrubium vulgare** (Lamiaceae), horehound
+71. **Matricaria discoidea** (Asteraceae), chamomile, pineapple weed
+72. **Matricaria recutita** (Asteraceae), chamomile
+73. *Medicago polymorpha* (Faboideae), burr clover
+74. **Melissa officinalis** (Lamiaceae), lemon balm
+75. *Melitotus alba* (Fabaceae), sweet clover
+76. **Mentha x piperita** (Lamiaceae), peppermint
+77. **Mentha spicata** (Lamiaceae), spearmint
+78. *Monardella villosa* (Lamiaceae), coyote mint
+79. *Myosotis latifolia* (Boraginaceae), broad-leaved forget-me-not
+80. *Nepeta cataria* (Lamiaceae), catnip
+81. **Opuntia spp.** (Cactaceae), Nopale, prickly pear cactus
+82. **Origanum vulgare** (Lamiaceae), oregana
+83. *Osmorhiza berteroi* (Apiaceae), sweet Cicely
+84. **Oxalis articulata** (Oxalidaceae), wood sorrel
+85. **Oxalis californica** (Oxalidaceae), wood sorrel
+86. **Oxalis oregano** (Oxalidaceae), redwood sorrel
+87. **Oxalis pes-caprae** (Oxalidaceae), sourgrass, wood sorrel, Bermuda buttercup
+88. *Parietaria judaica* (Urticaceae), pellitory of the wall, spreading pellitory
+89. *Phyla nodiflora var. nodiflora* (Verbenaceae), lemon verbena
+90. **Passiflora edulis** (Passifloraceae), passion fruit
+91. **Plantago lanceolata** (Plantaginaceae), plantago or plantain
+92. **Plantago major** (Plantaginaceae), plantago or plantain
+93. **Portulaca oleracea** (Portulacaceae), purslane or pigweed
+94. **Prunus domestica** (Rosaceae), plum
+95. **Prunus persica** (Rosaceae), peach
+96. **Prunus armeniaca** (Rosaceae), apricot
+97. **Prunus avium** (Rosaceae), cherry
+98. **Pyrus communis** (Rosaceae), European pear
+99. **Quercus agrifolia** (Fagaceae), coast live oak
+100. **Raphanus raphanistrum** (Brassicaceae), wild radish or jointed charlock
+101. **Raphanus sativum** (Brassicaceae), wild radish or jointed charlock
+102. **Rorippa nasturtium-aquaticum** (Brassicaceae), watercress
+103. **Rosmarinus officinalis** (Lamiaceae), rosemary
+104. **Ribes californicum** (Saxifragaceae), gooseberry
+105. **Rubus armeniacus** (Rosaceae), blackberries
+106. **Rumex acetosella** (Polygonaceae), Sheep sorrel
+107. **Rumex crispus** (Polygonaceae), curly dock
+108. **Rumex obtusifolius** (Polygonaceae), broad-leafed dock
+109. **Salicornia virginica** (Chenapodiaceae), pickelweed, sea beans
+110. **Salvia leucophylla** (Lamiaceae), purple sage
+111. **Salvia mellifera** (Lamiaceae), black sage
+112. **Sambucus melanocarpa** (Adoxaceae), black elderberry
+113. **Sambucus callicarpa** (Adoxaceae), red elderberry
+114. *Satureja montana* (Lamiaceae), winter savory
+115. *Sidalcea malvaeflora* (Malvaceae), common checkerbloom
+116. **Silybum marianum** (Asteracea), milk thistle
+117. *Sinapis arvensis* (Brassicaceae), wild mustard
+118. **Sisymbrium officinale** (Brassicaceae), hedge mustard
+119. *Solanum aviculare* (Solanaceae), kangaroo apple, New Zealand nightshade
+120. **Solanum nigrum** (Solanaceae), black nightshade
+121. **Sonchus asper** (Asteraceae), sow thistle, spiny sow thistle, prickly sow thistle
+122. **Sonchus oleraceus** (Asteraceae), sow thistle, common sow thistle
+123. **Stellaria media** (Caryophyllaceae), chickweed
+124. *Syzygium paniculatum* (Myrtaceae), magenta cherry, magenta lilly pilly
+125. **Taraxacum officinale** (Asteraceae), dandelion
+126. **Teucrium chamaedrys** (Lamiaceae), wall germander
+127. **Thymus vulgaris** (Lamiaceae), thyme
+128. **Trifolium repens** (Fabaceae), clover, white clover
+129. *Trillium chloropetalum* (Melanthiaceae), giant trillium
+130. *Triteleia laxa* (Asparagaceae), Ithuriel's spear
+131. **Tropaeolum majus** (Tropaeolaceae), nasturtium
+132. **Umbellularia californica** (Lauraceae), California Bay Laurel
+133. **Urtica dioica** (Urticaceae), nettles
+134. *Usnea intermedia* (Parmeliaceae), beard lichen
+135. **Vaccinium ovatum** (Ericaceae), huckleberry
+136. **Vicia americana** (Faboideae), purple vetch
+137. **Vicia gigantea** (Faboideae), giant vetch
+138. **Vicia sativa** (Faboideae), common vetch
+139. **Vicia villosa** (Faboideae), winter vetch, hairy vetch
+140. *Wisteria floribunda* (Fabacea), Japanese wisteria
+141. *Wisteria sinensis* (Fabacea), Chinese wisteria
+
+:::
+
+::: {.g-col-4}
+{{< include sidebar.qmd >}}
+:::
+
+::::

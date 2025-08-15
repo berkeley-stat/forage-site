@@ -1,0 +1,58 @@
+---
+title: Health from the Soil Up
+title-block-banner: "#00000000"
+title-block-banner-color: "rgba(255, 255, 255, 0.9)"
+format:
+  html:
+    css: index.css
+    page-layout: full
+---
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+## Interdisciplinary research & ecological literacy to build healthy, healthful food systems
+
+### Principal Investigators
+
+Ag consultant Cary Crumm among multi-species cover crops near Fresno, CA
+
+[Philip B. Stark](http://www.stat.berkeley.edu/%7Estark) (Statistics, UC Berkeley)
+
+[Daphne Miller](https://drdaphne.com/) (Lifelong Healthcare; UCSF Medical School; UC Berkeley School of Public Health)
+
+### Co-Investigators
+
+[Tom Carlson](http://ib.berkeley.edu/people/faculty/carlsont) (Integrative Biology, UC Berkeley)
+
+[Kristen Rasmussen de Vasquez](http://www.rootedfood.com/about/) (Nutritional Sciences & Toxicology, UC Berkeley)
+
+### Advisory Board
+
+[Dan Barber](https://www.bluehillfarm.com/team/dan-barber), [Mark Bittman](http://markbittman.com/), [Alice Waters](http://www.chezpanisse.com/about/alice-waters/)
+
+### Executive Board
+
+Health practitioners & scientists in a soil pit, [Paicines Ranch](https://paicinesranch.com/index.php)
+
+[Manu Buffara](http://www.restaurantemanu.com.br/chef/perfil-manu), [Roberto Flore](https://www.instagram.com/robbeflo/?hl=en), [David Carsten Pedersen](http://alwayshunting.dk/)
+
+### Funders
+
+We are grateful for support from:
+
+- [Berkeley Food Institute](http://food.berkeley.edu/) (2014, 2015)
+- Dr. Lorraine Schnurr (2016)
+- [#NoRegrets Initiative](https://www.noregretsinitiative.com/) (2018, 2019)
+- [TomKat Foundation](https://tomkatfoundation.org/) (2018)
+- [Lydia B. Stokes Foundation](http://www.lydiabstokesfoundation.org/) (2018)
+- [RSF AnJel Fund](https://rsfsocialfinance.org/) (2018)
+
+:::
+
+::: {.g-col-4}
+{{< include sidebar.qmd >}}
+:::
+
+::::

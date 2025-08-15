@@ -1,0 +1,48 @@
+:::: {.sidebar-wrapper .overflow-hidden}
+WE’D LOVE YOUR HELP!
+
+
+---
+
+[Volunteer](http://goo.gl/forms/bh1oN9gRQC) or [donate to BOSF](https://give.berkeley.edu/fund/?f=FN7169000)
+
+LATEST NEWS
+
+
+---
+
+Our [Field Guide](field-guide.qmd) to 13 delicious edible plants in the Bay Area, many of which are abundant worldwide, might help people improve their food security in the age of COVID-19. [8th Annual Wild/Feral Food Week 20-28 May 2022! ](https://forage.berkeley.edu/6th-wild-feral-food-week/) [Tweets by @OSfood](https://twitter.com/OSfood)
+
+OSFOOD ON INSTAGRAM
+
+
+---
+
+[View on Instagram](https://www.instagram.com/osfood/)
+
+FIELD GUIDE
+
+
+---
+
+brief guide to the Bay Area Baker’s Dozen Wild Edibles. [Get a copy.](http://forage.berkeley.edu/field-guide/)
+
+
+LATEST FIELD OBSERVATIONS ON INATURALIST
+
+
+---
+
+::: {.no-gap}
+
+[![](images/79496079.jpg){fig-alt="Brush Cherry from Northwest Berkeley, Berkeley, CA, USA on June 18, 2020 at 10:05 AM by Nick Spano" display=block}](https://www.inaturalist.org/observations/50064665)
+[![](images/75092942.jpg){fig-alt="Bluecrown passionflower from Northwest Berkeley, Berkeley, CA, USA on May 14, 2020 at 06:36 PM by Nick Spano" display=block}](https://www.inaturalist.org/observations/45934640)
+[![](images/72034693.jpg){fig-alt="Purple salsify from Gilman St:Ordway St, Berkeley, CA 94706, USA on May 09, 2020 at 01:22 PM by Nick Spano" display=block}](https://www.inaturalist.org/observations/45407782)
+[![](images/72000837.jpg){fig-alt="Prickly lettuce from Hopkins St & Sacramento St, Berkeley, CA 94702, USA on May 09, 2020 at 12:58 PM by Nick Spano" display=block}](https://www.inaturalist.org/observations/45407637)
+[![](images/71989673.jpg){fig-alt="Bristly oxtongue from Northwest Berkeley, Berkeley, CA, USA on May 09, 2020 at 11:50 AM by Nick Spano" display=block}](https://www.inaturalist.org/observations/45398712)
+
+:::
+
+© 2025 Berkeley Open Source Food. All rights reserved.
+
+::::

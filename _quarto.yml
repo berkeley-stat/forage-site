@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  #title: "Berkeley Open Source Food"
+  title: ""
+  image: "/images/cropped-bosfLogoWeb.gif"
+  navbar:
+    logo: "/images/cropped-bosfLogoWeb.gif"
+    background: "#ffffff"
+    left:
+      - text: HOME
+        href: index.qmd
+      - text: SOIL & HEALTH
+        href: health-from-the-soil-up-learning-lab.qmd
+      - text: EDIBLE WEEDS
+        menu:
+          - text: Wild and Feral Foods
+            href: wild-and-feral-foods.qmd
+          - text: Edibles
+            href: edible.qmd
+          - text: Inedibles
+            href: inedible.qmd
+          - text: Field Guide
+            href: field-guide.qmd
+          - text: "Foraging on Public Land: Policy Brief"
+            href: assets/UrbanForagingPolicyBrief-2017-08-29.pdf
+          - text: FAQ
+            href: faq.qmd
+          - text: Tenets
+            href: tenets.qmd
+          - text: References & Links
+            href: references-links-wild-food-foraging-wild-cuisine.qmd
+      - text: EVENTS
+        href: events.qmd
+      - text: PUBLICATIONS
+        href: publications.qmd
+      - text: PRESS
+        href: press.qmd
+format:
+  html:
+    css: styles.css

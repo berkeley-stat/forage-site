@@ -1,0 +1,33 @@
+---
+title: Publications
+---
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+## Research
+
+- **Stark, P.B., D. Miller, T.J. Carlson, and K.R. de Vasquez (2019).** [*Open-Source Food: Nutrition, Toxicology, and Availability of Wild Edible Greens in the East Bay*](https://doi.org/10.1371/journal.pone.0202450). PLOS One.
+
+## Policy Briefs
+
+- **Dabady, S., and P.B. Stark (2017).** [*Urban Foraging in Municipal Parks and Public Schools: Opportunities for Policymakers*](https://forage.berkeley.edu/wp-content/uploads/2017/08/UrbanForagingPolicyBrief-2017-08-29.pdf).
+
+- **Miller, D. (2014).** [*Rediscovering our lost “farmacy”: what protective health factors are lost when moving from an agroecological to an industrial model of agriculture?*](http://www.fao.org/3/a-i4729e.pdf) In *Agroecology for Food Security and Nutrition, Proceedings of the FAO International Symposium 18–19 September 2014, Rome, Italy.*
+
+## Opinion / Other
+
+- **Miller, D.M. (2019).** [*Uncovering how microbes in the soil influence our health and our food*](https://www.washingtonpost.com/science/uncovering-how-microbes-in-the-soil-influence-our-health-and-our-food/2019/09/27/81634f54-a4ba-11e9-bd56-eac6bb02d01d_story.html). *The Washington Post.*
+
+- **Miller, D.M. (2015).** [*The Curious Case of the Antidepressant, Anti-Anxiety Backyard Garden*](https://www.yesmagazine.org/issues/good-health/the-curious-case-of-the-antidepressant-anti-anxiety-backyard-garden-20151112), *yes!*
+
+- **Stark, P.B. (2015).** [*Salad from the Sidewalk*](https://www.nytimes.com/interactive/2015/07/09/opinion/09bittman.html). *The New York Times.*
+
+:::
+
+::: {.g-col-4}
+{{< include sidebar.qmd >}}
+:::
+
+::::

@@ -1,0 +1,27 @@
+---
+title: "Field Guide"
+---
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+<img src="images/fieldGuide-225x300.jpg" alt="The Bay Area Baker's Dozen Wild Edibles Book Cover" style="float:left; margin-right:1em; width:225px; height:auto;">
+
+A brief guide to the *Bay Area Baker’s Dozen Wild Edibles*, free with [a tax-deductible donation](http://give.berkeley.edu/BOSF) of $15 or more (in the “special instructions” area of the [donation](http://give.berkeley.edu/BOSF) checkout, please tell us to send a copy).
+
+To help improve food security in light of Covid-19, we offer a low-resolution version here. **Please do not rely on it to identify edible plants definitively! Many edible plants have toxic look-alikes.**
+
+<br clear="all">
+
+![Weed Guide Print 1](images/weedguide-print.jpg)
+
+![Weed Guide Print 2](images/weedguide-print-2.jpg)
+
+:::
+
+::: {.g-col-4}
+{{< include sidebar.qmd >}}
+:::
+
+::::

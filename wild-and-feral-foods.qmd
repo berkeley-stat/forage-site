@@ -1,0 +1,25 @@
+---
+title: "Wild and Feral Foods"
+---
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+## Wild and Feral Foods can Improve Nutrition, Expand Diets, Excite Palates, Save Water, Reduce Waste, Increase Food Security, Increase Farm Biodiversity, and Increase Farm Revenue
+
+We work on food equity, sustainability, resilience, nutrition, biodiversity, and gastronomy, increasing the supply of fresh, affordable, nutritious, drought-resistant, low-carbon-impact greens. We work with community and commercial farms, produce suppliers, markets, and restaurants to create a supply chain and a market for wild and feral edible plants, reduce food waste, increase farm biodiversity, increase resilience, reduce erosion, improve farm yields and profits, reduce environmental toxins, improve nutrition, and provide interesting, delicious ingredients for consumers and chefs. We map the availability and seasonal abundance of wild and feral edible plants. We test urban soils for toxicity and plants for nutrition and environmental toxicity. We promote urban foraging through education and outreach, including teaching plant identification and publishing field guides.
+
+<img src="images/fieldWork10.jpg" alt="A parking strip with weeds and grasses" style="float:right; margin-left:2em; width:225px; height:auto;">
+
+We advocate [public policy](https://forage.berkeley.edu/wp-content/uploads/2017/08/UrbanForagingPolicyBrief-2017-08-29.pdf) that increases the amount of free, fresh nutritious foods in cities, by stopping the use of herbicides on public lands and allowing foraging of invasive species on public lands; and by promoting the design of parks and public spaces that provide food and habitat for wildlife.
+
+Our [first publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202450) on the abundance, nutrition, and safety of wild foods foraged in urban environments appeared in PLoS One in 2019.
+
+:::
+
+::: {.g-col-4}
+{{< include sidebar.qmd >}}
+:::
+
+::::

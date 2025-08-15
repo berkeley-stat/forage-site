@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap');
+
+
+body {
+  font-family: 'Raleway', Arial, sans-serif;
+}
+
+/* Make all headings lighter weight */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
+
+/* Make navbar taller and logo larger */
+.navbar {
+  min-height: 8em;
+  font-size: small;
+}
+.navbar-brand img {
+  height: 6em;
+  width: auto;
+  max-height: none;
+}
+
+/* Right justify navbar links */
+.navbar-nav {
+  justify-content: flex-end;
+  width: 100%;
+  display: flex;
+}
+
+/* Ensure navbar items are inline */
+.navbar-nav > li {
+  display: flex;
+  align-items: center;
+}
+
+/* Add circle separators between navbar links */
+.navbar-nav > li:not(:last-child)::after {
+  content: " \2022 "; /* Unicode for bullet */
+  color: #333;
+  margin: 0 8px;
+  font-size: 1.2em;
+  vertical-align: middle;
+}
+
+.no-gap img {
+  display: block;   /* force one image per row */
+  margin: 0;        /* remove vertical gaps */
+}
+
+
+.sidebar-wrapper {
+  font-size: small;
+}
+
+/* Accessible highlight for edible and inedible species */
+.edible-highlight {
+  background-color: #006400;
+  color: #fff;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+.inedible-highlight {
+  background-color: #b22222;
+  color: #fff;
+  padding: 2px 4px;
+  border-radius: 3px;
+}

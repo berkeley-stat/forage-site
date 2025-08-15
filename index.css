@@ -1,0 +1,14 @@
+/* Make index page title lighter weight */
+.quarto-title-banner .quarto-title .title {
+  font-weight: 300 !important;
+}
+/* Hero graphic for index page only */
+#title-block-header.quarto-title-block.default {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/morchella_2017.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: auto;
+  opacity: 1.0;
+  z-index: -1;
+  font-weight: 300; /* Lighter weight for headings */
+}

@@ -1,0 +1,31 @@
+---
+title: "FAQ"
+---
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+## What about dog pee?
+
+Organic foods are grown in manure and compost. Conventional produce is grown with fertilizer and pesticide. All food can be contaminated with bacteria, viruses, and organic and inorganic residues. E. coli O157:H7 contamination of commercial vegetables has killed people in the US and Europe. Any food can be contaminated before or after it is picked, in transit, in storage, and in preparation.
+
+You might consider washing food before you eat it, whatever the source.
+
+## How will I learn to recognize what’s edible?
+
+It will happen quickly with practice: Most people can tell iceberg lettuce from romaine lettuce without thinking. Differences among wild edibles quickly become just as obvious. They will soon be “old friends” and you will notice them everywhere.
+
+Use several sources to identify new foods—don’t rely on one picture or one authority. Ideally, go foraging with someone knowledgable and reliable. iNaturalist also lets you post photos and ask for community help identifying species.
+
+There is a natural temptation to make the plant fit the description. Resist it. We all want to find things, but if the description says “opposite leaves” and the plant in your hand has alternate leaves, it isn’t the same plant—no matter whether everything else in the description matches. Ignoring this may get you sick, or worse.
+
+The first time you try something, take a small bite and chew. If it seems noxious, spit it out: don’t swallow it. If it seems OK, limit yourself to a small portion the first time, in case you have an adverse reaction, because you misidentified it or because you have an allergy or other sensitivity.
+
+:::
+
+::: {.g-col-4}
+{{< include sidebar.qmd >}}
+:::
+
+::::

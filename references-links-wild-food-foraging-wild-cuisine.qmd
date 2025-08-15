@@ -1,0 +1,33 @@
+---
+title: "References & Links"
+---
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+Here are some references we have found interesting, useful, and inspirational.
+
+- [The Association of Foragers](https://foragers-association.org/)
+- Aurora, David, 1986. [Mushrooms Demystified](https://a.co/3wX9j6i)
+- Baudar, Pascal, 2016. [The New Wildcrafted Cuisine](https://a.co/i42qpTn) (see also [Urban Outdoor Skills](https://www.urbanoutdoorskills.com/))
+- Brill, Steve, and Evelyn Dean, 1994. [Identifying and Harvesting Edible and Medicinal Plants in Wild (and Not So Wild) Places](https://a.co/e7VUED1)
+- [CalFlora](https://www.calflora.org/)
+- [Eat the Weeds (and other things, too)](https://www.eattheweeds.com/)
+- Elpel, Thomas J., 2013. [Botany in a Day](https://a.co/gSW6PX4)
+- Falconi, Dina, 2013. [Foraging & Feasting—A Field Guide and Wild Food Cookbook](https://a.co/aJQ9VvE)
+- [Falling Fruit](https://fallingfruit.org/)
+- Gibbons, Euell, 1962. [Stalking the Wild Asparagus](https://a.co/2Jif7o7) (and other books by Euell Gibbons)
+- Kallas, John, 2010. [Edible Wild Plants](https://a.co/j6lmh6t) (and other books by John Kallas)
+- [No Taste Like Home](https://notastelikehome.org/) (and other projects by Alan Muskat)
+- Shaw, Hank, 2012, [Hunt, Gather, Cook](https://a.co/eosxSf6)
+- Thayer, Samuel, 2006. [The Forager’s Harvest: A Guide to Identifying, Harvesting, and Preparing Edible Wild Plants](https://a.co/6KOrLlW) (and other books by Samuel Thayer)
+- [Vild Mad](https://www.vildmad.dk/en)
+
+:::
+
+::: {.g-col-4}
+{{< include sidebar.qmd >}}
+:::
+
+::::

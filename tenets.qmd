@@ -1,0 +1,24 @@
+---
+title: "Tenets"
+---
+
+:::: {.grid}
+
+::: {.g-col-8}
+
+
+1. Many wild and feral foods are delicious, with flavors and textures that are different from cultivated foods. They provide a special culinary opportunity, specific to season and locale.
+2. Foraging should be conducted responsibly, in a way that promotes biodiversity, sustainability, and resilience of the food system and of our individual diets. Foraging practices must consider time and place. We endorse and follow the [principles of the Association of Foragers](http://www.foragers-association.org.uk/principles-and-practice).
+3. Wild and feral foods on farms can provide biodiversity, resilience, delicious nutrition, and income. We encourage farmers to embrace wild and feral foods as economic cover crops, to “harvest between the rows,” and to bring wild and feral foods to market.
+4. By expanding food choices and raising public awareness, we seek to promote a just, inclusive, sustainable, resilient, biodiverse, restorative, nutritious food system that supports public health and reduces the negative consequences of industrial systems of food production.
+5. We advocate public policies that allow and encourage responsible foraging on public land. In addition to its health and educational benefits, foraging, especially of non-native invasive species, can play an important role in “pest” control.
+6. Foraging is healthful not only because of the nutrients it puts on the table: the activity itself is good for our bodies and our brains. It promotes healthy ecosystems by encouraging stewardship of natural resources and personal responsibility for our habitat—be it wild, rural, suburban, or urban. It feeds and sustains social, cultural, and economic relationships and ancestral knowledge.
+7. Food culture is world heritage. Everyone should learn to recognize common edible plants. Knowledge of wild and feral food should be available to all. For this reason, we do not claim any proprietary rights to information about wild and feral foods, and we share all our work using permissive licenses, such as CC-BY.
+
+:::
+
+::: {.g-col-4}
+{{< include sidebar.qmd >}}
+:::
+
+::::
