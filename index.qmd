@@ -19,33 +19,33 @@ format:
 ::: {.g-col-8}
 ### Principal Investigators
 
-[Philip B. Stark](http://www.stat.berkeley.edu/%7Estark) (Statistics, UC Berkeley)
+[Philip B. Stark](https://www.stat.berkeley.edu/%7Estark) (Statistics, UC Berkeley)
 
 [Daphne Miller](https://drdaphne.com/) (Lifelong Healthcare; UCSF Medical School; UC Berkeley School of Public Health)
 
 ### Co-Investigators
 
-[Tom Carlson](http://ib.berkeley.edu/people/faculty/carlsont) (Integrative Biology, UC Berkeley)
+[Tom Carlson](https://ib.berkeley.edu/people/faculty/carlsont) (Integrative Biology, UC Berkeley)
 
-[Kristen Rasmussen de Vasquez](http://www.rootedfood.com/about/) (Nutritional Sciences & Toxicology, UC Berkeley)
+[Kristen Rasmussen de Vasquez](https://www.rootedfood.com/about/) (Nutritional Sciences & Toxicology, UC Berkeley)
 
 ### Advisory Board
 
-[Dan Barber](https://www.bluehillfarm.com/team/dan-barber), [Mark Bittman](http://markbittman.com/), [Alice Waters](http://www.chezpanisse.com/about/alice-waters/)
+[Dan Barber](https://www.bluehillfarm.com/team/dan-barber), [Mark Bittman](https://markbittman.com/), [Alice Waters](https://www.chezpanisse.com/about/alice-waters/)
 
 ### Executive Board
 
-[Manu Buffara](http://www.restaurantemanu.com.br/chef/perfil-manu), [Roberto Flore](https://www.instagram.com/robbeflo/?hl=en), [David Carsten Pedersen](http://alwayshunting.dk/)
+[Manu Buffara](https://www.restaurantemanu.com.br/chef/perfil-manu), [Roberto Flore](https://www.instagram.com/robbeflo/?hl=en), [David Carsten Pedersen](https://alwayshunting.dk/)
 
 ### Funders
 
 We are grateful for support from:
 
-- [Berkeley Food Institute](http://food.berkeley.edu/) (2014, 2015)
+- [Berkeley Food Institute](https://food.berkeley.edu/) (2014, 2015)
 - Dr. Lorraine Schnurr (2016)
 - [#NoRegrets Initiative](https://www.noregretsinitiative.com/) (2018, 2019)
 - [TomKat Foundation](https://tomkatfoundation.org/) (2018)
-- [Lydia B. Stokes Foundation](http://www.lydiabstokesfoundation.org/) (2018)
+- [Lydia B. Stokes Foundation](https://www.lydiabstokesfoundation.org/) (2018)
 - [RSF AnJel Fund](https://rsfsocialfinance.org/) (2018)
 
 :::
