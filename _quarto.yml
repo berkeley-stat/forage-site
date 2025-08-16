@@ -9,11 +9,9 @@ website:
     logo: "/images/cropped-bosfLogoWeb.gif"
     background: "#ffffff"
     left:
-      - text: HOME
+      - text: Home
         href: index.qmd
-      - text: SOIL & HEALTH
-        href: health-from-the-soil-up-learning-lab.qmd
-      - text: EDIBLE WEEDS
+      - text: Edible Weeds
         menu:
           - text: Wild and Feral Foods
             href: wild-and-feral-foods.qmd
@@ -31,11 +29,11 @@ website:
             href: tenets.qmd
           - text: References & Links
             href: references-links-wild-food-foraging-wild-cuisine.qmd
-      - text: EVENTS
+      - text: Events
         href: events.qmd
-      - text: PUBLICATIONS
+      - text: Publications
         href: publications.qmd
-      - text: PRESS
+      - text: Press
         href: press.qmd
 format:
   html:
