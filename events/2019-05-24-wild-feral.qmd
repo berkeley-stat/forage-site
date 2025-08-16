@@ -1,0 +1,571 @@
+---
+title: 5th Wild/Feral Food Week!
+date: 2019-05-24
+date-format: iso
+format:
+  html:
+    css: /events.css
+---
+
+## Wild/Feral Food Week, 24—31 May, 2019, promotes “harvesting the whole farm” and re-incorporating pandigenous ancestral foods to reduce food waste, promote biodiversity, and delight palates across the globe.
+
+## Please visit these participating restaurants, bars, distilleries, breweries, farms, & foragers!
+
+<p><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XrQOYU0sKGt2mLQ_weCp_ext9zdvxja-" width="640" height="480"></iframe></p>
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/morchella-300x225.jpeg){fig-alt="Morchella Wild Foods" width=300 height=225}
+:::
+::: {.column}
+#### [Morchella Wild Foods](http://www.morchellawildfoods.com/) (San Francisco Bay Area, USA)
+
+This San Francisco foraging company supplies over 200 species of plants and fungi, largely to fine dining establishments. Founder Bryan Jessop also offers wild food surveys of farms and other private lands. Bryan will lead a foraging walk in the Bay Area, time and date TBA.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Chez Panisse](https://www.chezpanisse.com/reservations/) (Berkeley, California, USA)
+
+On May 28, Chef Cedric Tolosa will highlight wild and feral foods including wild greens from Bob Cannard’s [Green String Farm](http://www.greenstringfarm.com/about.html), wild fish, and foraged wild and feral foods such as pineapple weed, vetch, and mediterranean mustard. The menu will be available Saturday, 25 May.
+:::
+::: {.column}
+![](/images/wffw-1-9.jpg){fig-alt="Chez Panisse" width=256 height=192}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/DSC9378-1-Martin-Bailey-300x200.jpg){fig-alt="Go Foraging" width=300 height=200}
+:::
+::: {.column}
+#### [Go Foraging](http://www.goforaging.co.uk/) (Bristol, England, UK)
+
+Join us on 25 May, 10:15 – 13:30 BST, for a morning of foraging with Martin Bailey at The Community Farm. During the walk we’ll explore the springtime hedgerows and wilder areas of The Farm. You’ll forage your own tasty leaves, learning what’s in season and good to eat right now. At the end of our walk we’ll enjoy wild herb tea, delicious foraged ferments, sourdough bread, and wild pickles. It doesn’t matter whether you are an experienced forager or a complete novice, you’re sure to find this an enjoyable and interesting day.
+
+Information and tickets [here](https://www.eventbrite.co.uk/e/spring-foraging-workshop-tickets-59752171353).
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Four Season Foraging](https://www.fourseasonforaging.com/) (Minneapolis, MN, USA)
+
+Springtime Foraging Saturday, May 25th, 12pm to 2pm.
+
+They say that April showers bring May flowers… What they don’t tell you is how many of those flowers are tasty wild edibles! Join Maria Wesserle and Four Season Foraging as we explore the Midtown Greenway and learn what wild edibles and medicinals spring has to offer. Plants we will probably encounter include garlic mustard, burdock, dandelion, plantain, and many others! We will discuss identification, harvest, and preparation of each plant. Meet at the Midtown Greenway and Humboldt Ave S. Mpls, MN 55408. (See map here: [https://goo.gl/maps/2zvtyBGRh142](https://goo.gl/maps/2zvtyBGRh142)) There will be a sign that reads “Four Season Foraging.” Sliding scale $15-$35. This event is wheelchair accessible. For more details, please email info@fourseasonforaging.com or call 612-440-5958.
+
+(Space is limited. Please [register here](https://www.fourseasonforaging.com/event-payment/springtime-foraging) before Thursday, May 23rd, 12pm.)
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-05-at-4.19.11-PM-300x144.jpg){fig-alt="Four Season Foraging" width=300 height=144}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Screen-Shot-2019-05-05-at-4.36.38-PM-297x300.jpg){fig-alt="Haandplukk" width=297 height=300}
+:::
+::: {.column}
+#### [Haandplukk // Foraging With Ludokriss](https://www.instagram.com/ludokriss/) (Oslo, Norway)
+
+Forager and author Kristin Nielsen will host a foraging walk in the woods/nearby cultivated fields, collecting food for a group meal afterwards. Contact [foragingwithludokriss@gmail.com](mailto:foragingwithludokriss@gmail.com) or [Facebook event](https://www.facebook.com/events/337372086965982/) or +4798659336
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Native Bar](https://tribenative.com/) (Singapore)
+
+Native Bar often includes foraged ingredients in their craft cocktails, working with partners and communities to unearth ingredients and uncover the stories behind these ingredients. For W/FFW, they have a new drink on the menu, the Concrete Jungle, which includes foraged nutmeg leaves, mead made with wild flowers.
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-05-at-4.44.48-PM-300x150.jpg){fig-alt="Native Bar" width=300 height=150}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Screen-Shot-2019-05-05-at-4.52.36-PM-300x156.jpg){fig-alt="Sobremesa Culinary Tours" width=300 height=156}
+:::
+::: {.column}
+#### [Sobremesa Culinary Tours](http://www.sobremesa.life/) (Barcelona, Spain / Kyoto, Japan)
+
+Sobremesa has some spots left for our *A Taste of Japan* Tour, May 19-27, based in Kyoto, Kanazawa and the mountains north of Kyoto. We will guide you through a food-based look into this traditional culture we are fascinated by, including cooking classes with traditional foods, traditional meals, a miso making workshop with local artisans in the mountains, a pickle making workshop in a 150 year-old family run pickle producing facility, 2 tea ceremonies, and many delicious meals. More info and sign up [here](https://sobremesa.life/taste-of-japan).
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Life by Lisen](https://forage.berkeley.edu/5th-wild-feral-food-week/lisen@lifebylisen.com) (Stockholm, Sweden)
+
+Metamorfos. Förvandling. Förändring. Omdaning.
+
+THIS WORKSHOP WILL BE HELD IN SWEDISH Vi är natur. Vi ingår i samma system, lever under samma villkor och följer samma cykler. Den här dagen får du djupdyka i dig själv som natur – existentiellt och konkret och hitta nya vägar att omfamna livets förändring. Under en vårdag kombinerar vi existentiellt utforskande med skogsvandringar och direktkontakt med naturen.
+
+SÅ HÄR GÅR DET TILL Först närmar vi oss det existentiella. Vad är det att vara en del av naturen, att leva i metamorfos, att vara i ständig förändring. Sedan går vi ut i skogen runt knuten. Möter naturens pånyttfödelse. Och där i en glänta får du lära dig mer om vilda växter, och hur de kan bli en del av din matkultur. På vägen hem plockar vi det vi behöver för att laga en vild vegetarisk måltid tillsammans. Efter maten får du en stund för dig själv – vandra, skriv, fundera. Sedan samlas vi, fikar och reflekterar kring hur metamorfos kan vara en del av vår livsförståelse.
+
+KURSLEDARE Ann Lagerström, existentiell samtalsledare och författare bidrar med existentiell filosofi och psykologi. Lisen Sundgren, kostrådgivare och en av våra främsta kännare av örter och vilda växter, introducerar er till naturen som källa till hälsa och njutning. Saturday May 25 Time: 9 am – 5 pm Price: 2000 kr ink. moms, all meals included Contact med for registration: Lisen Sundgren, lisen@lifebylisen.com
+
+WILD WALK AT ROSENDALS GARDEN MAY 28 Välkommen ut i det gröna! Smaka på den frodiga grönskan som bjuder på svinmålla, älggräs, röllika, björklöv och andra delikatesser. Tisdag 28 maj kl. 17.00 – 18.30
+
+Ogräs är framtidens mat! Vilda växter förtjänar en högre status. Låt maskrosor, kirskål och svinmålla frodas istället , och ät upp dem. Vilda ätliga växter är inte bara kokheta inom den moderna gastronomin, men också bland det mest näringsrika och miljövänliga du kan äta. Och ett fantastiskt sätt att knyta an till naturen.
+
+För att plocka och använda vilda växter krävs kunskap om hur och var man får plocka, hur man identifierar vad som är ätligt och hur växterna tillagas. Under vandringen får du tips om hur vanliga vilda växter tillagas till mat, samt hudvårdsprodukter och hur de kan förbättra din hälsa. Lisen Sundgren är herbalist, forager, författare och en ivrig förespråkare för ett liv i samklang med naturen. Hon samarbetar med flera framstående kockar och varit med och utvecklat köket på flera krogar.
+
+Hennes två senaste böcker, Det Vilda Köket och Vildvuxet finns att köpa på plats. Obs! klädsel efter väder då vi är ute Deltagaravgift: 350 kr Register here: https://dinkurs.se/appliance/?event_id=59088
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-05-at-4.57.51-PM-300x150.jpg){fig-alt="Life by Lisen" width=300 height=150}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Screen-Shot-2019-05-05-at-5.04.05-PM-300x226.jpg){fig-alt="The Tasting Kitchen" width=300 height=226}
+:::
+::: {.column}
+#### [The Tasting Kitchen](http://www.thetastingkitchen.com/) (Venice, CA, USA)
+
+For Wild/Feral Food Week, we will offer several menu options featuring wild/natural/feral foods as well as the option to participate in a family style tasting menu comprised wholly of dishes featuring said menu items. For reservations, see @the.tasting.kitchen, [the.tasting.kitchen.com](http://www.thetastingkitchen.com/) or [OpenTable](https://www.opentable.com/r/the-tasting-kitchen-venice) Prices range from $75-$115 for the tasting menu, with individual dishes $15-$45.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Lineage](http://lineagemaui.com/) (Wailea, Hawaii, USA)
+
+Lineage focuses on celebrating food culture in Hawaii, by honoring the traditions, recipes, and techniques of our elders. For W/FFW, Lineage will have a wild/feral menu item. Book through [lineagemaui.com](http://lineagemaui.com/) or [OpenTable](https://www.opentable.com/r/lineage-maui-wailea). Items are priced $6-$10.
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-05-at-5.09.16-PM-300x149.jpg){fig-alt="Lineage" width=300 height=149}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Screen-Shot-2019-05-05-at-5.17.18-PM-254x300.jpg){fig-alt="Savage Kitchen" width=254 height=300}
+:::
+::: {.column}
+#### [Savage Kitchen](https://savagekitchen.com/) (Wailuku, Hawaii, USA)
+
+Forager, wild food advocate, invasivore, and chef Sunny Savage will lead two foraging walks:
+- May 25th in PoliPoli from 10-2 for a $20 suggested donation, includes wild snack.
+- May 31st in Paia from 4-6pm for a $10 suggested donation.
+
+For event updates and details, follow @sunnysavage on Instagram or see [Facebook](https://www.facebook.com/savagekitchenmaui/)
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [The Botanist Gin](https://www.bruichladdich.com/laddie-shop/the-botanist/botanist-gin/) (Islay, Scotland)
+
+The Botanist produces the only gin from Islay, Scotland, at the Bruichladdich Distillery. The Botanist incorporates 22 wild, hand-foraged botanicals.
+:::
+::: {.column}
+![](/images/gin-300x200.jpg){fig-alt="The Botanist Gin" width=300 height=200}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/manu-242x300.png){fig-alt="Restaurante Manu" width=242 height=300}
+:::
+::: {.column}
+#### [Restaurante Manu](http://www.restaurantemanu.com.br/) (Curitiba, Brazil)
+
+Manoella ‘Manu’ Buffara of Restaurante Manu has swiftly become one of Latin America’s hottest young chefs by celebrating the diverse natural produce of the Paraná region in beautifully presented, contemporary dishes.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [SingleThread Farms Restaurant and Inn](https://www.singlethreadfarms.com/) (Healdsburg, California, USA)
+
+SingleThread Farms regularly uses foraged items, ranging from mushrooms to seaweed and everything in between, throughout their restaurant and Inn–from menu items to flowers and their non-alcoholic pairing menu. They also use wild weeds and herbs to make herbal wellness products for inn guests. They also feature preserved specimens in decorative displays and installations seasonally. Anything inspiring throughout the season has a moment and is celebrated.
+:::
+::: {.column}
+![](/images/stf-300x200.jpg){fig-alt="SingleThread Farms" width=300 height=200}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Screen-Shot-2019-05-06-at-1.36.22-PM-300x103.jpg){fig-alt="Resilient Farm" width=300 height=103}
+:::
+::: {.column}
+#### [Resilient Farm](https://www.facebook.com/resilientfarm/) (Hvalsø, Denmark)
+
+Agronomist and forager Teresa Fresu will lead a wild food identification walk in the Danish National Park Skjoldungerne Landet in Hvalsø on Thursday, 30 May, 12-3pm. More information [here](https://www.facebook.com/events/1704849199814639/).
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Shared Cultures / Eleana Hsu](https://www.shared-cultures.com/) (Oakland, California, USA)
+
+Forager Eleana Hsu will host a wild herbal tea tasting and workshop. Participants will be able to see and smell the ingredients and learn about their health benefits. Participants will also make their own tea sachets to take home. Seasonal ingredients will likely include:
+- pineapple weed (aka wild chamomile)
+- redwood fir tips
+- rose petals
+- lavender
+- tree strawberry bark
+- tree strawberry fruit
+- blackberry leaves
+- yarrow
+- oxalis
+- Gingko bilboa
+- nasturtiums
+- clover
+
+The event is at [Counter Culture Labs](https://www.counterculturelabs.org/), 30 May, 7-9pm. For details and tickets, see [Meetup](https://www.meetup.com/Counter-Culture-Labs/events/261372121/)
+:::
+::: {.column}
+![](/images/FullSizeRender-1-225x300.jpg){fig-alt="Shared Cultures" width=225 height=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Screen-Shot-2019-05-07-at-10.43.54-AM-300x176.jpg){fig-alt="Slow Food East Bay" width=300 height=176}
+:::
+::: {.column}
+#### [Slow Food East Bay](http://www.slowfoodeastbay.com/) (Oakland, California, USA)
+
+Event TBA
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Shiso Studio](http://shiso-studio.com/mrs-phinks-house) (Copenhagen, Denmark)
+
+Shiso Studio is hosting a series of dinners pertaining to only really wild landscape in Denmark – the coast line. The concept of the dinners focuses on saltwater, and they have created a planting palette for the dinners based around coastal plants in Denmark. Why saltwater? – it is working on two levels. The first is a discussion on climate change and how saltwater will become more prevalent in the future, and the second reason is that the Danish coast is special part of Danish landscape and culinary history.
+
+The dinners are held May 23rd – June 8th in Copenhagen in an old military bunker in Copenhagen that has been consumed by plants over time. The price for ticket is 515dkk (approx $85) For tickets and reservations, visit [here](http://shiso-studio.com/mrs-phinks-house)
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-07-at-10.51.11-AM-300x151.jpg){fig-alt="Shiso Studio" width=300 height=151}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Gannet-50-300x200.jpg){fig-alt="The Gannet" width=300 height=200}
+:::
+::: {.column}
+#### [The Gannet](http://www.thegannetgla.com/) (Glasgow, Scotland, UK)
+
+The Gannet Restaurant works closely with two foragers, regularly showcasing seasonal wild edible plants, herbs, shore vegetables, and seaweeds in their ever-changing menus. For reservations, visit [here](https://www.thegannetgla.com/)
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Leeds Indie Food](http://leedsindiefood.co.uk/) / [Edible Leeds](https://edible-leeds.blogspot.com/) / [Seven Arts](http://www.sevenleeds.co.uk/) (Leeds, England, UK)
+
+Walk on the Wild Side Wild Food: Walk, Talk, Make, Eat & Take: Professional forager Craig Worrall will lead a group from Seven Arts to Gledhow Valley Woods. Craig will point out and explain the uses of plenty of wild edibles and teach you how to identify a range of in-season, gourmet, and wild edible plants.
+
+At around 13:00, you’ll return to Seven Arts to create your very own lacto-fermented wild garlic to take home, before sitting down to a bowl of delicious wild soup, bread, cakes and drinks. All food, drink and equipment are included in the ticket price of £44 GBP. For additional details and tickets, visit [here](http://leedsindiefood.co.uk/events/walk-on-the-wild-side-wild-food-walk-talk-make-eat-take/)
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-10-at-11.25.01-AM-296x300.jpg){fig-alt="Leeds Indie Food" width=296 height=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/IMG_3383-224x300.jpeg){fig-alt="The Backyard Forager" width=224 height=300}
+:::
+::: {.column}
+#### [The Backyard Forager](http://www.backyardforager.com/) (Santa Fe, New Mexico, USA)
+
+Forager, ethnobotanist, author, and wild-food educator Ellen Zachos is opening her online foraging classes to new registrants for Wild/Feral Food Week. Learn about wild edible foods, wild spices, wildcrafted cocktails, and more. To sign up, visit [here](https://backyard-forager.thinkific.com/)
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [DTU Skylab FoodLab](https://www.skylab.dtu.dk/Facilities/Labs_and_Workshops) (Lyngby, Denmark)
+
+DTU FoodLab will celebrate wild and feral food by hosting a cocktail and speaker event. This event will introduce students to the world of wild and feral foods through a series of presentations, tastings, and networking opportunities with experts in wild food. We will have presentations from businesses and researchers working with seaweed, insects, and other wild foods.
+
+Speakers include: Dansk Tang, Lars Birck, Geoffrey Canilao, and Ditte Baun Hermund. There will also be students working with wild foods presenting their mission and product.
+
+This is a free event with limited spots. Learn more about the event on Facebook: [here](https://www.facebook.com/events/2334080910140547/) Sign up via Eventbrite: [here](https://www.eventbrite.com/e/wild-and-feral-foods-info-event-tickets-61635784290)
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-10-at-1.36.29-PM-300x164.jpg){fig-alt="DTU Skylab FoodLab" width=300 height=164}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/foragersview-300x225.jpg){fig-alt="Feral Kevin" width=300 height=225}
+:::
+::: {.column}
+#### [Feral Kevin](http://feralkevin.com/classes) (Walnut Creek, California, USA)
+
+Author, urban farmer, and wild food instructor Kevin Feinstein will lead a wild food walk and edible plant tour. To register, see the link at [feralkevin.com/classes](http://feralkevin.com/classes) or [Eventbrite](https://www.eventbrite.com/e/wild-edible-plants-foray-may-26-tickets-61754319833)
+
+Feral Kevin generously offers a 40% discount for Wild and Feral Food Week participants. (Discount code WILDFERAL) [Follow Feral Kevin on Instagram](https://www.instagram.com/feral_kevin/).
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Forage Fine Foods](http://www.foragefinefoods.com/) (Herefordshire, England, UK)
+
+On 24th May, we are hosting our annual [Wild Spring Feast](https://www.foragefinefoods.com/pages/products-wildspringfeast) –food gathered, reared & hunted from within 5 miles of our small kitchen in the ancient Black Mountains between England and Wales. Local ingredients inspired by the other lands our wild food grows in celebrating the smallness of the wild world.
+
+The evening will include wild cocktails, canapes, and a 3 course meal, followed by music from the Nuadha Quartet.
+
+£37.50 GBP. For reservations and tickets, please visit [here](https://www.foragefinefoods.com/products/wildspringfeast)
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-12-at-11.57.23-AM-300x294.jpg){fig-alt="Forage Fine Foods" width=300 height=294}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/IMG_0765-300x300.jpg){fig-alt="Orchard Kitchen" width=300 height=300}
+:::
+::: {.column}
+#### [Orchard Kitchen](https://www.orchardkitchen.com/) (Whidbey Island, Washington, USA)
+
+Chef and forager Karen Achabal will lead an Introduction to Foraging Wild Edible Plants at Orchard Kitchen, the hyperlocal farmhouse restaurant on Whidbey Island created in 2015 by Chef Vincent Nattress (a Whidbey Island native who started his culinary career in the SF Bay Area) and wine and service maven Tyla Jones Nattress.
+
+This class will teach you how to identify, harvest, and cook with locally available wild edibles. Learn how to safely and sustainably enjoy the delicious feast of wild ingredients that grow all around us. Class includes:
+- 90 minutes of cooking instruction
+- family-style farmhouse lunch
+- 2 glasses of wine per person
+- coffee or tea service
+
+Fee $130.44. To reserve a spot, visit [here](https://www.orchardkitchen.com/products/foraging-with-karen-achabel)
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Veld and Sea](https://veldandsea.com/upcoming-events/) (Cape Town, South Africa)
+
+Veld and Sea will be sharing images of wild edible plant and seaweeds, food photos and recipes throughout this week from our already booked up foraging events and adventures on Instagram. The Veld and Sea team will be participating, foraging, leading and feeding on the following wildly delicious adventures:
+- A screening at the shark tank in the Two Oceans Aquarium of a local surf culture film which incorporates coastal foraging followed by a Q and A session with the directors and forager
+- A Life Aquatic themed Foraging Cooking Class
+- A free dive forage and cook up
+- A wild flavour forage and feast
+
+Many events are sold out already, but tickets for the film screening at the Aquarium on the 24th of May are available [here](https://www.quicket.co.za/events/71638-deep-blue-middle-c-screening-at-the-two-oceans-aquarium-24-may-2019).
+
+Veld and Sea’s upcoming foraging workshops and nature-inspired events are listed at [here](https://veldandsea.com/upcoming-events/)
+:::
+::: {.column}
+![](/images/Coastal-Forage-spread-Veld-and-Sea-300x169.jpg){fig-alt="Veld and Sea" width=300 height=169}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Demond-Meek-Aaron-Foraging-sm-Marika-Josephson-300x200.jpg){fig-alt="Scratch Brewing" width=300 height=200}
+:::
+::: {.column}
+#### [Scratch Brewing](http://scratchbeer.com/) (Ava, Illinois, USA)
+
+Scratch offers a range of beers on draft and in bottles year-round that contain plants harvested wild from the woods surrounding the brewery. During Wild and Feral Food Week, we will have over 15 offerings that include foraged ingredients such as morels, burdock, and sap from maple, birch and walnut, available during our normal hours of operation Monday through Sunday.
+
+Scratch is a farmhouse brewery located on the edge of the Shawnee National Forest at 264 Thompson Rd, Ava, Illinois. Scratch Brewing has gained worldwide notoriety for its innovative use of locally sourced and wild harvested ingredients to make beer that has a sense of place.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Botanik](https://www.instagram.com/chefelijahholland/?hl=en) (Shanghai, China)
+
+Chef Elijah Holland’s new Shanghai restaurant, Botanik, features purely Chinese produce, either wild and foraged or farmed locally. Chef EJ is also involved in the wild and feral distillery Manly Spirits (Australia).
+:::
+::: {.column}
+![](/images/Screen-Shot-2018-05-01-at-3.05.48-PM-300x213.png){fig-alt="Botanik" width=300 height=213}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Screen-Shot-2019-05-24-at-11.39.00-AM-297x300.jpg){fig-alt="Patricia Nunes / First Hand Experiences" width=297 height=300}
+:::
+::: {.column}
+#### [Patricia Nunes](https://www.instagram.com/aflorakitchen/) / [First Hand Experiences](http://firsthandexperiences.co.uk/) (London, England, UK)
+
+At First Hand Experiences, what matters to children is at the heart of everything we do. First Hand Experiences offers holiday clubs and sleep-away camps for children. For opening week, 25th to 31st May, they will celebrate Wild/Feral Food Week at their site, based in an organic farm, surrounded by green and edible wild plants. The event will include a forager and trained forest teacher, as well as cooking classes with chef Patricia Nunes to teach children how to prepare wild and feral foods. More information [here](http://firsthandexperiences.co.uk/).
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Pinoy Heritage](https://experiences.chefsfeed.com/pinoyheritage/) (San Francisco, California, USA)
+
+On 25 May, Filipino Food pop-up Pinoy Heritage will offer *Kamayan: feasting with the hands*, a meal featuring foraged greens. Price $85, including a cocktail. Reservations [here](https://experiences.chefsfeed.com/pinoyheritage/).
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-24-at-12.29.59-PM-242x300.jpg){fig-alt="Pinoy Heritage" width=242 height=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/IMG_3928-Aruna-Lee-300x300.jpg){fig-alt="Volcano Kimchi" width=300 height=300}
+:::
+::: {.column}
+#### [Volcano Kimchi](http://www.volcanokimchi.com/) (San Francisco, California, USA)
+
+This week, Volcano Kimchi will offer a rhubarb kimchi with wild nasturtium flowers, among their other locally-sourced, organic, handcrafted foods. Volcano Kimshi is [available at farmers’ markets and several grocery stores](https://www.volcanokimchi.com/stockists) in the San Francisco area, including the Ferry Plaza Farmer’s Market, the Clement St. Farmers’ Market, and the San Rafael Civic Center Farmers’ Market.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Fishing and Foraging Wales](https://www.fishingandforagingwales.co.uk/) (Pembrokeshire, Wales, UK)
+
+A *warm welcome awaits you here on the shoreline of Wales*.
+
+Angler/forager/chef Matt Powell will custom craft a wild/foraged meal for up to 6 diners at prices ranging from £250 to £650. He also offers excursions and training starting at £75. Sign up [here](https://www.fishingandforagingwales.co.uk/foraging-food-courses-wales).
+
+A combination of saltwater lure angling for bass and other species, foraging, food and accommodation on the stunning Welsh coast. ​Fish – Fishing for the European saltwater bass on the magical Pembrokeshire coast with the first and only qualified saltwater angling guide with Natural Resources Wales and Wild Fishing Wales guiding qualification scheme. ​Forage – Learn to forage in a sustainable and responsible way along one of the most beautiful stretches of coastline in the world. ​Feast – Unique food inspired by my surroundings and the Welsh landscape, lovingly prepared and served by a chef with many years of experience gained in Michelin Star restaurants.
+:::
+::: {.column}
+![](/images/Screen-Shot-2019-05-24-at-12.59.37-PM-300x241.jpg){fig-alt="Fishing and Foraging Wales" width=300 height=241}
+:::
+:::
+:::
+:::
+

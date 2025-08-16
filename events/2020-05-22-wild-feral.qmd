@@ -1,0 +1,164 @@
+---
+title: 6th annual Wild/Feral Food Week
+date: 2020-05-22
+date-format: iso
+format:
+  html:
+    css: /events.css
+---
+
+## Wild/Feral Food Week, 22—29 May, 2020, promotes “harvesting the whole farm” and re-incorporating pandigenous ancestral foods to reduce food waste, promote biodiversity, and delight palates across the globe.
+
+## Please support these participating restaurants, bars, distilleries, breweries, farms, & foragers!
+
+<p><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BN-ovmQ7RshZPYVyWPi9A5QWQ-y5fccw" width="640" height="480"></iframe></p>
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](2020-05-22-wild-feral_files/0-300x300.png){fig-alt="Shared Cultures" width=300 height=300}
+:::
+::: {.column}
+#### [Shared Cultures](https://www.shared-cultures.com/) (San Francisco, California, USA)
+
+Eleana is a fermentress focused on transforming foods with the magic of microbes and koji. What makes her most excited is creating new food products and flavors using local produce and whole utilization techniques. Eleana has experience teaching koji workshops in the Bay Area and crafting ferments for local popup dinners and events. Currently, she is hunkered down at home working on launching unique great tasting fermented food products in the Bay Area. You can find and follow her on Instagram @SharedCultures.
+
+Learn how to make your own umami sauces that are high in amino acids using foraged mushrooms, food scraps, and koji.
+
+We will specifically be using porcini mushrooms and whatever leftovers in the kitchen to create a highly nutritious and delicious soy sauce alternative.
+
+When: May 28, 2020 06:00 PM Pacific Time (US and Canada)
+Register in advance for this meeting:
+[Zoom Registration](https://zoom.us/meeting/register/tJAsc-2grjoiEtT8crjNE_vjs5xu1LUYJEUe)
+After registering, you will receive a confirmation email containing information about joining the meeting.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Morchella Wild Foods](http://www.morchellawildfoods.com/) (San Francisco Bay Area, USA)
+
+This San Francisco foraging company supplies over 200 species of plants and fungi, largely to fine dining establishments. Founder Bryan Jessop also offer wild food surveys of farms and other private lands. Bryan will lead a foraging walk in the Bay Area, time and date TBA.
+:::
+::: {.column}
+![](2020-05-22-wild-feral_files/morchella-300x225.jpeg){fig-alt="Morchella Wild Foods" width=300 height=225}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](2020-05-22-wild-feral_files/0-300x221.jpg){fig-alt="Pinoy Heritage" width=300 height=221}
+:::
+::: {.column}
+#### [Pinoy Heritage](https://www.pinoyheritage.com/) (San Francisco, California, USA)
+
+Pinoy Heritage is open for pick up and delivery meal kits during the stay at home order. Their menu includes a salad with nasturtium flowers, wild fennel, and miner’s lettuce.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Oakland Spirits Company (OsCo)](https://www.oakland.ventures/) (Oakland, California, USA)
+
+Oakland Spirits Company (OsCo) is a craft and specialty spirits company located in uptown Oakland. Many of their spirits feature foraged ingredients including nori, sage, and bay leaf.
+:::
+::: {.column}
+![](2020-05-22-wild-feral_files/unnamed-5-245x300.jpg){fig-alt="Oakland Spirits Company (OsCo)" width=245 height=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](2020-05-22-wild-feral_files/fabio-300x200.png){fig-alt="Farmacia dei Contenti" width=300 height=200}
+:::
+::: {.column}
+#### [Farmacia dei Contenti](https://www.facebook.com/farmaciadeicontenti) (Ruffano, Lecce, Italy)
+
+On May 29th Farmacia die Contenti will reopen after 3 months of closure. During Wild and Feral Food Week their menu will feature sea fennel, “CRITIMI” in dialect, a plant that grows spontaneously on the cliffs.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Scratch Brewing](http://www.scratchbeer.com/) (Ava, Illinois, USA)
+
+Scratch offers a range of beers on draft and in bottles year-round that contain plants harvested wild from the woods surrounding the brewery. During Wild and Feral Food Week, we will have over 15 offerings that include foraged ingredients such as morels, burdock, and sap from maple, birch and walnut, available during our normal hours of operation Monday through Sunday.
+
+Scratch is a farmhouse brewery located on the edge of the Shawnee National Forest at 264 Thompson Rd, Ava, Illinois. Scratch Brewing has gained worldwide notoriety for its innovative use of locally sourced and wild harvested ingredients to make beer that has a sense of place.
+
+During the stay at home order, Scratch Brewing will be offering delivery and curbside pickup options.
+:::
+::: {.column}
+![](2020-05-22-wild-feral_files/Untitled-250x300.png){fig-alt="Scratch Brewing" width=250 height=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](2020-05-22-wild-feral_files/manu-242x300.png){fig-alt="Restaurante Manu" width=242 height=300}
+:::
+::: {.column}
+#### [Restaurante Manu](http://www.restaurantemanu.com.br/) (Curitiba, Brazil)
+
+Manoella ‘Manu’ Buffara of Restaurante Manu has swiftly become one of Latin America’s hottest young chefs by celebrating the diverse natural produce of the Paraná region in beautifully presented, contemporary dishes.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Galloway Wild Foods](http://www.gallowaywildfoods.com/) (Galloway, Scotland)
+
+Mark Williams shares his passion for foraging and the deliciously nutritious food that you can gather for free in the wild through Galloway Wild Foods. In addition to the free information that he shares on his Wild Food Guide, he also offers guided walks and tuition on woodland, hedgerow and coastal foraging. Mark regularly consults on foraged ingredients with food and drinks companies and work closely with chefs, barmen, nutritionists and herbalists to explore the possibilities of our wild larder. He writes regularly on foraging for national and local press and various websites.
+:::
+::: {.column}
+![](2020-05-22-wild-feral_files/IMG_0234-e1583234026489-225x300.jpg){fig-alt="Galloway Wild Foods" width=195 height=261}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](2020-05-22-wild-feral_files/lunch-300x225.jpg){fig-alt="Forage London" width=300 height=225}
+:::
+::: {.column}
+#### [Forage London](https://www.foragelondon.co.uk/) (Wareham, England)
+
+Read all about Forage London, here: https://www.foragelondon.co.uk/from-mushroom-hunting-to-urban-foraging/
+:::
+:::
+:::
+:::

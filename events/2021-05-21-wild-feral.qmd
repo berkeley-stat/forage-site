@@ -1,0 +1,413 @@
+---
+title: 7th annual Wild/Feral Food Week
+date: 2021-05-21
+date-format: iso
+format:
+  html:
+    css: /events.css
+---
+
+## Wild/Feral Food Week, 21–29 May, 2021, promotes “harvesting the whole farm” and re-incorporating pandigenous ancestral foods into our diets to reduce food waste, promote biodiversity on farms and in our diets, and delight palates across the globe.
+
+## Please support these restaurants, bars, distilleries, breweries, farms, foragers, and food producers!
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gDCcmpx_evw4xq3tmWy8A3a_egYbRwsC" width="800" height="480"></iframe>
+
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/26.jpg){fig-alt="Savage Kitchen" width=300}
+:::
+::: {.column}
+#### [Savage Kitchen](https://sunnysavage.com/savage-kitchen/) (Wailuku, Hawaii, USA)
+
+Join Sunny Savage for a free class on harvesting & processing haole koa (Leucaena leucocephala). We will be learning to identify, harvest various parts for food, learn processing techniques, and of course some delicious samples of prepared foods made with haole koa.
+
+**When**: May 23rd, 11am-3pm
+
+**Register:** email support@savagekitchen.com for location and event details
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [TEALEAVES](https://www.tealeaves.com/pages/in-good-taste) (Vancouver, BC, Canada)
+
+Food, Culture, and Biodiversity | TEALEAVES Presents the In Good Taste Documentary Launch
+
+In celebration of UNESCO’s World Day for Cultural Diversity on May 21st and World Biodiversity Day on May 22nd, join the public launch of the In Good Taste Documentary at the World Biodiversity Forum. With themes ranging from mouthfeel to regenerative agriculture, indigenous food knowledge, and biodiverse diets, ‘In Good Taste’ reveals solutions to save our planet and our personal health. Changing human behavior is a matter of deliciousness or desirability: How can we mobilize for positive impact through personal taste?
+
+**What:** documentary film
+**When:** Friday, May 21, 9:00 am PST.
+**Register:** [Zoom Webinar](https://us02web.zoom.us/webinar/register/4316190315276/WN_boXo72_YRfWeV67HF-LoGg)
+:::
+::: {.column}
+![](/images/SessionBanner_NYCxDesign_Taste.png){fig-alt="TEALEAVES Documentary" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/weedscourse16-9.jpg){fig-alt="Very Edible Gardens" width=300}
+:::
+::: {.column}
+#### [Very Edible Gardens](https://www.eatthatweed.com/) (Coburg, Victoria, Australia)
+
+Come for a relaxing and edible walk in the park as we check out various autumn edible & medicinal wild weedy plants available in Melbourne, Victoria.
+
+**What:** wild edible and medicinal plant identification walks  
+**When:** 22 May at 10:30am and 1:30pm.  
+**Cost:** $AUD25/$20 concession.  
+**Register:** see www.eatthatweed.com for more details and other dates.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Shared Cultures](https://www.shared-cultures.com/) (San Francisco, California, USA)
+
+*Plant Identification Walk* with Eleana Hsu, a soy sauce and miso maker in San Francisco. We will identify common wild plants that grow around SF/Bay Area that are nutritious and edible! There is no cost to attend, and all are welcome. Please wear comfortable hiking shoes. Area. You can find and follow Eleana on Instagram @SharedCultures.
+
+**What:** wild food identification walks  
+**When:** 6pm PT on Saturday May 22nd.  
+**Registration:** no registration needed.  
+**Cost:** free
+:::
+::: {.column}
+![](/images/SF-Wild-Plant-Foray.jpg){fig-alt="Shared Cultures" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/2020.7.7.q2.katreynolds.TEC_.farm_.culinary.pizza_.tomatoes-.jpg){fig-alt="The Ecology Center" width=300}
+:::
+::: {.column}
+#### [The Ecology Center](https://www.theecologycenter.org/) (San Juan Capistrano, CA, USA)
+
+Chef Ryan Peterson will offer Friday Night Farm Dinner, featuring nettle pizza and garden lettuce salad with foraged greens.
+
+**What:** pizza for two dinner farm dinner with wild greens  
+**When:** Friday 28 May  
+**Reservations:** [online](https://the-ecology-center.ticketleap.com/peace-pizza-farm-dinners/details)  
+**Cost:** $50 for two
+
+**More:** Weekly [Farm Share Harvest Box](https://farmshare.theecologycenter.org/) of organic fruit, vegetables, & herbs from our farm and farm partners  
+**Cost:** starts at $25
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Orchard Kitchen](https://www.orchardkitchen.com/) (Whidbey Island, WA, USA)
+
+Chef Vincent Nattress uses the wild bounty of Whidbey Island and Puget Sound. For Wild/Feral Food Week, expect foraged sea beans, spruce tips, nori, wakame, chickweed, and nettles, in addition to produce from the Orchard Kitchen’s own farm.
+
+Farmstand produce and [CSA boxes](https://orchard-farmstand.square.site/) also available.
+
+**Reservations:** [online](https://www.exploretock.com/orchardkitchen/)
+:::
+::: {.column}
+![](/images/unnamed.webp){fig-alt="Orchard Kitchen" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/a9156a45-1642-48d1-b8bc-0f566c13b104.jpg){fig-alt="Marie Viljoen" width=300}
+:::
+::: {.column}
+#### [Marie Viljoen](https://66squarefeet.blogspot.com/) (New York, NY USA)
+
+Accompany wild foods author and forager Marie Viljoen on a mid-spring stroll through the NY Botanical Gardens Garden to identify a host of edible flowers and plants and discover their culinary and mixology potential. Marie will emphasize what is sustainable to forage, what is not, and why. She will cover how to forage sustainably using ramps as a case study, as well as how to grow vulnerable native edibles at home. Outside only; rain or shine.
+
+**What:** wild food identification walks  
+**When:** Thursday, 27 May, 11am-2pm EDT  
+**Registration:** [online](https://www.enrole.com/nybg/jsp/session.jsp?sessionId=214CKG245B&courseId=214CKG245&categoryId=11091)
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Morchella Wild Foods](http://www.morchellawildfoods.com/) (San Francisco Bay Area, USA)
+
+This San Francisco foraging company supplies over 200 species of plants and fungi, largely to fine dining establishments.
+
+**What:** foraged ingredients
+:::
+::: {.column}
+![](/images/morchella-300x225.jpeg){fig-alt="Morchella Wild Foods" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/AMB_2264_B_web.jpg){fig-alt="Inver Restaurant" width=300}
+:::
+::: {.column}
+#### [Inver Restaurant](https://inverrestaurant.co.uk/) (Argyll, Scotland, UK)
+
+Walking to work in rural Inver Restaurant is like browsing a fresh produce market- except everything is free for the taking! This time of year the menu is full of wild garlic and wild leeks, tender shoreline seaweeds like pepper dulse, and spring’s early edible flowers like ladies’ smock (cuckoo flower). But for WFFW For Wild & Feral Food Week 2021 we’ll be serving the whole garden on our evening tasting menu. Expect snacks to start like “seedlings and seeds”- self-seeded amaranth and brassica seedlings, served with a pumpkin seed miso “bagna cauda” dip (basically we’ve helped gardener Kate make money from weeding!). Spring’s tender, richly mineral nettles feature with the lamb course, and last year’s shooting and flowering kale plants are pruned and served with a buckwheat and broccoli tart and a savoury custard made with local farmhouse cheese. Even the rhubarb meringue is garnished with the primroses that grow in the hedgerows bordering the garden.
+
+**Reservations:** [online](https://inverrestaurant.co.uk/reservations/)
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Oakland Spirits Company (OsCo)](https://www.oakland.ventures/) (Oakland, California, USA)
+
+Oakland Spirits Company (OsCo) is a craft and specialty spirits company located in uptown Oakland. Many of their spirits feature foraged ingredients including nori, sage, and bay leaf.
+
+For Wild/Feral Food Week, OsCo is offering the *Gardentini*: a Foraged Nasturtium leaf steeped Sea Gin Martini. Order at the bar.
+
+**What:** cocktails with wild ingredients  
+**Where:** 489 25th St., Oakland, CA  
+**When:** whenever the tasting room is open  
+**Cost:** $13 at the bar
+:::
+::: {.column}
+![](/images/Screen-Shot-2021-05-18-at-4.34.50-AM.png){fig-alt="Oakland Spirits Company" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/manu-242x300.png){fig-alt="Restaurante Manu" width=300}
+:::
+::: {.column}
+#### [Restaurante Manu](http://www.restaurantemanu.com.br/) (Curitiba, Brazil)
+
+Manoella ‘Manu’ Buffara of Restaurante Manu has swiftly become one of Latin America’s hottest young chefs by celebrating the diverse natural produce of the Paraná region in beautifully presented, contemporary dishes.
+
+**Reservations:** [online](http://www.restaurantemanu.com.br/us-en/reservations/)
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Wild Walks South West](https://www.wildwalks-southwest.co.uk/) (Penzance, Cornwall, UK)
+
+Award-winning author and foraging guide Rachel Lambert will lead seaweed foraging course with tasters in Prussia Cove, West Cornwall.
+
+**What:** seaweed foraging course  
+**When:** Tuesday 25 May, 10am-1pm  
+**Registration:** [online](https://www.wildwalks-southwest.co.uk/product/25th-may-seaweed-foraging-course-with-tasters/)  
+**Cost:** £45pp, under 16s £20, under 5s free
+:::
+::: {.column}
+![](/images/Mix-020_landscape.jpg){fig-alt="Wild Walks South West" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/DSC_3693.jpeg){fig-alt="Life by Lisen" width=300}
+:::
+::: {.column}
+#### [Life by Lisen](https://forage.berkeley.edu/7th-wild-feral-food-week/lisen@lifebylisen.com) (Stockholm, Sweden)
+
+Author, forager, herbalist, and nature and forest therapist Lisen Sundgren will lead a variety of events during the week:
+
+**What, when, and cost:**
+- [Wild walks/plant ID and tasting](https://artipelag.se/aktiviteter/vaxtpromenad/) @artipelag, May 23, 12-2pm, 385kr
+- [Eat the Weeds](https://www.rosendalstradgard.se/course/at-upp-ograset-vild-varvandring-25-maj/) @Rosendals trädgård, May 25, 5-6:30pm, 385kr
+- [Eat the Weeds](https://www.rosendalstradgard.se/course/at-upp-ograset-vild-varvandring-eftermiddag/) @Rosendals trädgård, May 26, 3-4:30pm and 5-6:30pm, 385kr
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [The Backyard Forager](https://www.backyardforager.com/) (Santa Fe, NM, USA)
+
+Forager, foraging instructor, and author Ellen Zachos is co-host of the Plantrama podcast and the author of eight books, including The Wildcrafted Cocktail, TheForager’s Pantry, and Backyard Foraging. A former Broadway performer (Les Miz), she was named a Great American Gardener by the Epcot Flower and Garden Festival. She has worked with The Botanist Gin since 2014, teaching foraged mixology workshops across the U.S. She was an instructor at the New York Botanic Garden before moving to Santa Fe, NM.
+
+**What:** A variety of online courses on foraging and wildcrafted cocktails.  
+**Where:** [online!](https://backyard-forager.thinkific.com/)  
+**When:** at your convenience  
+**Cost:** prices depend on the course, ranging from free to $97.
+:::
+::: {.column}
+![](/images/Foragers-Pantry-cover.jpg){fig-alt="The Backyard Forager" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/Media3390.jpg){fig-alt="Foraging with Wildman" width=300}
+:::
+::: {.column}
+#### [Foraging with “Wildman”](http://www.wildmanstevebrill.com/) (New Rochelle, NY, USA)
+
+Naturalist-author “Wildman” Steve Brill is America’s go-to guy for foraging. He’s been leading foraging tours and providing demos for the public, for schools, day camps, birthday parties, museums, nature centers, parks departments, restaurants and chefs, garden clubs, hiking clubs, teaching farms, nurseries, and other organizations, in parks and natural areas throughout the Greater NY area, since 1982. He created his own website, Foraging with the “Wildman.”
+
+His Identifying and Harvesting Edible and Medicinal Plants in Wild (and Not-So-Wild) Places (William Morrow Publishers, 1994) is considered a classic on the subject. His innovative Wild Vegan Cookbook (Harvard Common Press, April, 2002) is changing the way people think of preparing gourmet food. His Shoots and Greens of Early Spring in Northeastern North America (self-published, 1986, revised and expanded 2008) teaches people how the foraging season begins, his Foraging with Kids introduces children to the natural world and his Foraging New York (Globe-Pequot Press, 2017) covers the best local species. His Foraging With the “Wildman” DVD is showing people how it’s all done, and his iOS/Android app, Wild Edibles Forage, is the best foraging app in America.
+
+But the world-famous environmental educator is still best known for having been *handcuffed and arrested by undercover park rangers* who infiltrated a tour, *for eating a dandelion in Central Park*!
+
+**What:** wild food “tours” collecting common, seasonal, renewable edible/medicinal plants and mushrooms  
+**Where and When:**
+- Belmont Lake State Park, N. Babylon, NY 5/23, 11:30am
+- Prospect Park, Brooklyn, NY 5/29 11:45am
+**Registration:** Sign up on [Wildman’s website](http://www.wildmanstevebrill.com/) or call him at (914) 835-2153.  
+**Cost:** suggested donation $20/adult, $10/child under 12.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [The Gannet](https://www.thegannetgla.com/) (Glasgow, Lanarkshire, Scotland, UK)
+
+Critically acclaimed restaurant The Gannet regularly showcases Scotland’s bountiful wild game, and seasonal foraged plants, berries, fungi, & seaweed in their dishes.
+
+**Reservations:** [online](https://www.thegannetgla.com/contact-reservations)
+:::
+::: {.column}
+![](/images/cca67c_ef5a676ab918422a9824a7b1d4651e6c~mv2.webp){fig-alt="The Gannet" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/137569618_100590205347129_7578287208538635824_n.png){fig-alt="Eating Wild" width=300}
+:::
+::: {.column}
+#### [Eating Wild](https://www.facebook.com/eatingwild100) (Berkeley, CA, USA)
+
+Eating Wild is a foraged food supplier based in Berkeley California. Because they work with wild food, what we have can be unpredictable. It is currently morel and porcini season, so likely they will have fresh morels and porcini, as well as dried candy cap mushrooms.
+
+**What:** foraged mushrooms and other wild foods, as available.  
+**Contact:** [carrie@eatingwild.net](mailto:carrie@eatingwild.net) to hear what’s available.
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Four Season Foraging](https://www.fourseasonforaging.com/) (Minneapolis, MN, USA)
+
+Forager and foraging educator Maria Wesserle started gathering wild edibles about 17 years ago, and has spent over 10 years leading nature programs in the Upper Midwest. In 2017, Maria founded Four Season Foraging to offer foraging workshops in the Twin Cities area, creating a space where people can learn to interact with urban and rural wild places in meaningful and sustainable ways.
+
+Please support Maria’s free foraging tutorials on [Patreon](https://www.patreon.com/fourseasonforaging)
+
+Register for her next event [online](https://www.fourseasonforaging.com/events/2021/5/22/spring-into-foraging).
+:::
+::: {.column}
+![](/images/464585F5-DAC5-4B5A-B6D1-0C2060B32198-12574-000003CE09609C1F.webp){fig-alt="Four Season Foraging" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+#### [Herbicide Free Campus](https://www.herbicidefreecampus.org/) (Berkeley, CA, USA)
+
+The mission of Herbicide Free Campus is to empower the next generation of environmental leaders to create safer, more sustainable living and learning environments for all by starting locally and advocating for organic land care on their campuses.
+
+For Wild/Feral Food Week, HFC is offering anyone who donates $10 or more (tax deductible) to support their mission a chance to win a collection of foraging books!
+
+**What:** book collection raffle entry with [tax-deductible donation](https://secure.acceptiva.com/?cst=twrFfk) of $10 or more  
+**When:** 25-27 May  
+**Where:** [donate and enter the drawing online](https://www.herbicidefreecampus.org/events-blog/wild-feral-food-week-book-giveaway)
+:::
+::: {.column}
+![](/images/wildferalfoodweekbook.jpeg){fig-alt="Herbicide Free Campus" width=300}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card}
+::: {.columns}
+::: {.column}
+![](/images/IMG_5462.jpg){fig-alt="Wild Food Stories" width=300}
+:::
+::: {.column}
+#### [Wild Food Stories](http://www.wildfoodstories.co.uk/) (Aberdeenshire, Scotland, UK)
+
+Leanne Townsend, author and foraging educator, will lead a summer foraging walk in Aberdeenshire, in Scotland. Participants will learn how to safely identify a diverse range of wild plants growing on their doorstep. On this gentle walk around the Aberdeenshire countryside, Leanne will teach the main principles of foraging, including safety, sustainability and ethics. Participants will learn about the numerous ways that wild food can be incorporated into our diets and how it can be prepared in nutritious and delicious recipes.
+
+**What:** Foraging walks  
+**Where:** Aberdeenshire, Scotland  
+**When:** 10-1:30 or 2-5:30  
+**Register:** [online](https://www.wildfoodstories.co.uk/events)
+:::
+:::
+:::
+:::
+
