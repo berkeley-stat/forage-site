@@ -4,4 +4,4 @@ date: 2015-04-11
 date-format: iso
 ---
 
-Edible weed identification in the Peralta Community Garden, https://communitygarden.org/find-a-garden/gardens/peralta-community-garden/.
+Edible weed identification in the Peralta Community Garden. See [Wild Chamomile: Tasting Between the Crcks](https://rootedfood.com/recipes/musings/2015/4/15/eating-between-the-cracks-pineapple-weed).
