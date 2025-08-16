@@ -1,7 +1,9 @@
 ---
-title: 2017 Wild Feral Food Week Restaurants
+title: 2017 Wild/Feral Food Week Restaurants
 date: 2017-04-16
 date-format: iso
+categories:
+  - wild-feral
 ---
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1psYHhAlgM_TVe8vK34bE3YeCpMs" width="640" height="480"></iframe>

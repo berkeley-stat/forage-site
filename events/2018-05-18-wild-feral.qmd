@@ -1,7 +1,9 @@
 ---
-title: 4th Wild & Feral Food Week 2018
+title: 4th Wild/Feral Food Week 2018
 date: 2018-05-18
 date-format: iso
+categories:
+  - wild-feral
 format:
   html:
     css: /events.css

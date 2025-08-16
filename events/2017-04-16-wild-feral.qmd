@@ -2,6 +2,8 @@
 title: 3rd Annual Wild/Feral Food Week 2017
 date: 2017-04-16
 date-format: iso
+categories:
+  - wild-feral
 ---
 
 ## Restaurants and Events | Farms, Foragers, & Suppliers

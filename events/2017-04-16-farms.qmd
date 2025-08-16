@@ -1,7 +1,9 @@
 ---
-title: "2017 Wild Feral Food Week Growers & Suppliers"
+title: "2017 Wild/Feral Food Week Growers & Suppliers"
 date: 2017-04-16
 date-format: iso
+categories:
+  - wild-feral
 ---
 
 **[Backyard](http://www.backyardforestville.com/)** (Forestville, CA)

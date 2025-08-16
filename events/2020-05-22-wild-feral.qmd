@@ -2,6 +2,8 @@
 title: 6th annual Wild/Feral Food Week
 date: 2020-05-22
 date-format: iso
+categories:
+  - wild-feral
 format:
   html:
     css: /events.css

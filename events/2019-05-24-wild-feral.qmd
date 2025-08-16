@@ -2,6 +2,8 @@
 title: 5th Wild/Feral Food Week!
 date: 2019-05-24
 date-format: iso
+categories:
+  - wild-feral
 format:
   html:
     css: /events.css

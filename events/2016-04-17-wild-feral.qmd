@@ -2,6 +2,8 @@
 title: 2nd Annual Wild/Feral Food Week
 date: 2016-04-17
 date-format: iso
+categories:
+  - wild-feral
 ---
 
 Berkeley Open Source Food proudly presents the **Second Annual Wild/Feral Food Week**, a landmark culinary experience at some of the Bay Area's most innovative restaurants. This event highlights the culinary opportunity of "pandigenous" wild foods, reduces food and water waste, increases revenue to farmers, promotes farm biodiversity, and creates a supply chain and market for wild and feral foods.

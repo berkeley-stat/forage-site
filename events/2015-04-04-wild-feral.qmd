@@ -3,6 +3,8 @@
 title: Wild Food Week in Berkeley and San Francisco
 date: 2015-04-04
 date-format: iso
+categories:
+  - wild-feral
 ---
 
 Enjoy [Berkeley Open Source Food's](http://forage.berkeley.edu) first public event, a singular culinary experience: delicious local wild and feral foods prepared by [Cesar](http://cesarberkeley.com/), [Chez Panisse](http://chezpanisse.com), [Mission Chinese Food](http://missionchinesefood.com/) + [The Perennial](http://theperennialsf.com), and [Mission Heirloom](http://missionheirloom.com), some of the Bay Area's most innovative restaurants. Meals will feature foraged greens and ingredients provided by our partner farms and suppliers, [Capay Valley Farm Shop](http://capayvalleyfarmshop.com/), [F.E.E.D. Sonoma](http://feedsonoma.com/), [Good Eggs](https://www.goodeggs.com/), [Green String Farm](http://www.greenstringfarm.com/), [The Living Wild Project](http://www.livingwild.org/), and [Say Hay Farms](http://www.sayhayfarms.com/).
