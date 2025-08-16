@@ -2,6 +2,8 @@
 title: 'Seismic Salad: Fresh Food After "The Big One."'
 date: 2019-10-12
 date-format: iso
+categories:
+  - walk
 ---
 
 At James Kenney Park, 1720 Eighth Street, Berkeley, CA.

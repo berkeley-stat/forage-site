@@ -2,6 +2,10 @@
 title: Where the Wild Things Grow
 date: 2017-04-22
 date-format: iso
+categories:
+  - walk
 ---
 
-Wwild/feral plant identification walk with the Berkeley Path Wanderers Association. Meet at Codornices Park, 10am, for a 3-mile hilly walk to see what wild and feral foods are volunteering abundantly in Berkeley.
+Wild/feral plant identification walk with the Berkeley Path Wanderers Association. Meet at [Codornices Park](https://www.google.com/maps/dir/''/1201+Euclid+Ave,+Berkeley,+CA+94708/@37.8855332,-122.2645068,17z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x80857c1ce1c88a53:0xaa9a3c1237a3c5a9!2m2!1d-122.2623181!2d37.8855332), 10am, for a 3-mile hilly walk to see what wild and feral foods are volunteering abundantly in Berkeley.
+
+[BPWA Newsletter](https://us3.campaign-archive.com/?e=[UNIQID]&u=266e1bc9cb30bda55a8bdf522&id=73b6cfaab8)

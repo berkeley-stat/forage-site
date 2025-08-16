@@ -2,6 +2,8 @@
 title: Foraging walk in North Berkeley with FoodInno
 date: 2017-09-16
 date-format: iso
+categories:
+  - walk
 ---
 
 [Come forage with us](https://goo.gl/forms/1nJ9o5LIafqiOFQS2) this Saturday, and learn your weedies from the coolest professor at Cal! #urbanforaging #NorthBerkeley.
