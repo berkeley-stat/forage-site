@@ -259,7 +259,7 @@ Award-winning author and foraging guide Rachel Lambert will lead seaweed foragin
 ![](/images/DSC_3693.jpeg){fig-alt="Life by Lisen" width=300}
 :::
 ::: {.column}
-#### [Life by Lisen](https://forage.berkeley.edu/7th-wild-feral-food-week/lisen@lifebylisen.com) (Stockholm, Sweden)
+#### [Life by Lisen](mailto:lisen@lifebylisen.com) (Stockholm, Sweden)
 
 Author, forager, herbalist, and nature and forest therapist Lisen Sundgren will lead a variety of events during the week:
 

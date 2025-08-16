@@ -132,7 +132,7 @@ Sobremesa has some spots left for our *A Taste of Japan* Tour, May 19-27, based 
 ::: {.card}
 ::: {.columns}
 ::: {.column}
-#### [Life by Lisen](https://forage.berkeley.edu/5th-wild-feral-food-week/lisen@lifebylisen.com) (Stockholm, Sweden)
+#### [Life by Lisen](mailto:lisen@lifebylisen.com) (Stockholm, Sweden)
 
 Metamorfos. Förvandling. Förändring. Omdaning.
 

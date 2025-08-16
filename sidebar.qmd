@@ -11,7 +11,7 @@ LATEST NEWS
 
 ---
 
-Our [Field Guide](field-guide.qmd) to 13 delicious edible plants in the Bay Area, many of which are abundant worldwide, might help people improve their food security in the age of COVID-19. [8th Annual Wild/Feral Food Week 20-28 May 2022! ](https://forage.berkeley.edu/6th-wild-feral-food-week/) [Tweets by @OSfood](https://twitter.com/OSfood)
+Our [Field Guide](/field-guide.qmd) to 13 delicious edible plants in the Bay Area, many of which are abundant worldwide, might help people improve their food security in the age of COVID-19. [8th Annual Wild/Feral Food Week 20-28 May 2022! ](/events/2022-05-20-wild-feral.qmd) [Tweets by @OSfood](https://twitter.com/OSfood)
 
 OSFOOD ON INSTAGRAM
 

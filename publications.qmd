@@ -12,7 +12,7 @@ title: Publications
 
 ## Policy Briefs
 
-- **Dabady, S., and P.B. Stark (2017).** [*Urban Foraging in Municipal Parks and Public Schools: Opportunities for Policymakers*](https://forage.berkeley.edu/wp-content/uploads/2017/08/UrbanForagingPolicyBrief-2017-08-29.pdf).
+- **Dabady, S., and P.B. Stark (2017).** [*Urban Foraging in Municipal Parks and Public Schools: Opportunities for Policymakers*](/assets/UrbanForagingPolicyBrief-2017-08-29.pdf).
 
 - **Miller, D. (2014).** [*Rediscovering our lost “farmacy”: what protective health factors are lost when moving from an agroecological to an industrial model of agriculture?*](http://www.fao.org/3/a-i4729e.pdf) In *Agroecology for Food Security and Nutrition, Proceedings of the FAO International Symposium 18–19 September 2014, Rome, Italy.*
 
