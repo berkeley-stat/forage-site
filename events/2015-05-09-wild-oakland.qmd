@@ -2,6 +2,8 @@
 title: Edible Weeds in Oakland
 date: 2015-05-09
 date-format: iso
+categories:
+ - walk
 ---
 
-WILD Oakland event, Edible Weeds in Oakland, 12–2pm.
+WILD Oakland event, Edible Weeds in Oakland, 12–2pm. See [Wild Weeds on the Menu](https://edibleeastbay.com/2015/05/02/urban-adventures/).
