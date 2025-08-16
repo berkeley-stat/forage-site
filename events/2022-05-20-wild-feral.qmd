@@ -1,0 +1,11 @@
+---
+title: 8th Annual Wild/Feral Food Week
+date: 2022-05-20
+date-format: iso
+categories:
+  - wild-feral
+---
+
+The 8th Annual Wild/Feral Food Week is 20–28 May, 2022!
+
+![](/images/IMG_0606.jpg){fig-alt="People inspecting plants"}
