@@ -14,9 +14,10 @@ format:
 
 ## Interdisciplinary research & ecological literacy to build healthy, healthful food systems
 
-### Principal Investigators
+::: {.grid}
 
-Ag consultant Cary Crumm among multi-species cover crops near Fresno, CA
+::: {.g-col-8}
+### Principal Investigators
 
 [Philip B. Stark](http://www.stat.berkeley.edu/%7Estark) (Statistics, UC Berkeley)
 
@@ -34,8 +35,6 @@ Ag consultant Cary Crumm among multi-species cover crops near Fresno, CA
 
 ### Executive Board
 
-Health practitioners & scientists in a soil pit, [Paicines Ranch](https://paicinesranch.com/index.php)
-
 [Manu Buffara](http://www.restaurantemanu.com.br/chef/perfil-manu), [Roberto Flore](https://www.instagram.com/robbeflo/?hl=en), [David Carsten Pedersen](http://alwayshunting.dk/)
 
 ### Funders
@@ -49,6 +48,18 @@ We are grateful for support from:
 - [Lydia B. Stokes Foundation](http://www.lydiabstokesfoundation.org/) (2018)
 - [RSF AnJel Fund](https://rsfsocialfinance.org/) (2018)
 
+:::
+
+::: {.g-col-4}
+
+![Ag consultant Cary Crumm among multi-species cover crops near Fresno, CA](/images/cary-crumm.jpg){fig-alt="Cary Crumm"}
+
+
+![Health practitioners and scientists in a soil pit, [Paicines Ranch](https://paicinesranch.com/index.php)](/images/soil-pit.jpg){fig-alt="Soil pit"}
+
+:::
+
+:::
 :::
 
 ::: {.g-col-4}
